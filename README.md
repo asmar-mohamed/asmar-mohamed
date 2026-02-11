@@ -1,44 +1,68 @@
-# 💫 About Me:
+<h1 align="center">Hello
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">
+ I'm Mohamed ASMAR
+</h1>
 
-👋 Hi there! I'm **Mohamed ASMAR** — a passionate **Full-Stack Web Developer** dedicated to building efficient, scalable, and user-friendly web applications.<br><br>
-💻 I enjoy working with modern technologies like **Laravel, React, and MySQL** to create full-stack solutions that solve real-world problems. I focus on writing clean code and designing maintainable architectures.<br><br>
-📚 I’m currently a **Bachelor’s student in Ingénierie des Systèmes Informatiques et Technologies Web (ISITW)** and constantly improving my skills in backend development, frontend frameworks, API integration, and database design.<br><br>
-🤝 I’m always open to collaboration — whether it's contributing to open-source projects, building innovative apps, or exchanging ideas about tech. Feel free to reach out!<br><br>
-📂 Check out my repositories below and don’t hesitate to star ⭐, fork 🍴, or send feedback. Let’s grow together!
+<div align="center">
+  <img src ="./banner.png" />
+</div>
 
----
+<br/>
 
-# 💻 Tech Stack:
+## 👨🏻‍💻 About Me:
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Portfolio](https://mostafazrour.github.io/me)**  
+- 🎓 Bachelor’s Student in **Ingénierie des Systèmes Informatiques et Technologies Web (ISITW)**  
+- 💻 Full-Stack Web Developer (Laravel & React)  
+- 🌱 Currently learning `Advanced Backend & Cloud`  
+- 👯 Looking to collaborate on `Web & API Projects`  
+- 💬 Ask me about `Laravel, React, MySQL`  
+- 👨‍💻 Life Hack: Write clean code & keep learning 🚀  
+- ⚡ Fun fact: I love football & e-sport ⚽🎮  
 
 ---
 
-# 📊 GitHub Stats:
+## 🛠️ Technologies and Tools I use:
 
-![](https://github-readme-streak-stats.vercel.app/?user=asmar-mohamed\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asmar-mohamed\&theme=dark\&hide_border=false\&layout=compact)
+<p>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25px"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
+## ❤️ Let's get connected:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+<p>
+<a href="https://www.linkedin.com/in/mohamedasmar" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+
+<a href="mailto:mohamed3asmar222@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
+
+<a href="https://mostafazrour.github.io/me" target="_blank">
+<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" height="30px"/></a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=asmar-mohamed\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 📊 My GitHub Data:
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=asmar-mohamed&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmar-mohamed" />
+</div>
